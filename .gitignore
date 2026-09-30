@@ -20,3 +20,8 @@ __pycache__/
 # OS / redaktoriai
 .DS_Store
 *.swp
+
+# Projekto venv ir schemos
+.venv/
+schem/
+!.vscode/settings.json

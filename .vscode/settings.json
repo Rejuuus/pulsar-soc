@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "verilog.linting.linter": "verilator",
+  "verilog.linting.verilator.arguments": "-Wall -sv",
+  "verilog.linting.path": "/Users/rejusb/oss-cad-suite/bin/",
+  "files.associations": { "*.sv": "systemverilog" }
+}
