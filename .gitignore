@@ -1,0 +1,22 @@
+# Simuliacijos artefaktai
+sim_build/
+obj_dir/
+*.vcd
+*.fst
+*.ghw
+results.xml
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sintezės / P&R išvestys
+*.json
+*.asc
+*.bin
+*.bit
+*.rpt
+!*/compile_commands.json
+
+# OS / redaktoriai
+.DS_Store
+*.swp
